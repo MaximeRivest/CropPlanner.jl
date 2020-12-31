@@ -1,6 +1,40 @@
-# CropPlanner
+Questions I would like the system to help me answer
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://MaximeRivest.github.io/CropPlanner.jl/stable)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://MaximeRivest.github.io/CropPlanner.jl/dev)
-[![Build Status](https://travis-ci.com/MaximeRivest/CropPlanner.jl.svg?branch=master)](https://travis-ci.com/MaximeRivest/CropPlanner.jl)
-[![Coverage](https://codecov.io/gh/MaximeRivest/CropPlanner.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/MaximeRivest/CropPlanner.jl)
+
+## Sell related questions
+
+What is the earliest basket I can sell?
+
+What are the available vegetable for this date?
+
+What is the price of this basket?
+
+What is the space needed for this basket?
+
+What is the profit for this basket?
+
+What is the latest basket I can sell?
+
+What is the most profitable to sell at this date?
+
+What is the least profitable to sell at this date?
+
+What do I have over for this date?
+
+What is the earliest and latest date for which I can have this basket?
+
+
+### Things I need to know for those questions
+
+1. Earliest harvest date per crop
+2. Latest harvest date per crop
+3. Price per item (temporal complexity)
+4. Space per item (temporal complexity)
+5. Profit per item (temporal complexity)
+6. Stock of over produced
+
+## Production related questions
+
+When should I seed for this basket ?
+
+What is the production schedule for this basket?

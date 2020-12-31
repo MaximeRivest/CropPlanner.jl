@@ -1,0 +1,34 @@
+vegetable,cell_flat,number_of_flats_per_bed,number_of_days_in_cell,nb_of_rows_in_30_in_beds,intensive_spacing_within_rows_in,plants_per_clump
+bok_choy,72,4,21,3,12,1
+mustard_greens,72,4,21,3,12,1
+tatsoy,72,4,21,3,12,1
+basil,128,3,25,3,12,1
+beet,128,11,25,3,3.5,1
+broccoli,72,3,30,2,18,1
+brussels_sprout,72,3,30,2,18,1
+cauliflower,72,3,30,2,18,1
+celery,72,10,60,3,6,1
+cellery_root,72,5,60,3,12,1
+kale,72,5,30,3,12,1
+swiss_chard,72,5,30,3,12,1
+chinese_cabbage,72,3,30,2,18,1
+corn,128,4,15,2,6,1
+cucumber,72,1.5,15,1,18,1
+eggplant,"4"" x 4""",85,50,1,18,1
+fennel,72,7,30,2,6,1
+green_onion,500/tray,13,45,5,6,5
+ground_cherry,72,1,40,1,24,1
+kohlrabi,72,9,30,3,7,1
+leek,300/tray,2,65,3,6,1
+lettuce,128,3,30,3,12,1
+charentais,"4"" x 4""",2,15,1,18,1
+muskmelon,"4"" x 4""",2,15,1,18,1
+watermelon,"4"" x 4""",2,15,1,18,1
+onion,500/tray,3,50,3,10,1
+parsley,128,8,40,4,6,1
+pepper,"4"" x 4"" ",170,60,1,9,1
+rutabaga,72,7,30,2,6,1
+spinach,128,11,21,4,6,1
+summer_cabbage,72,3,30,2,18,1
+summer_squash,72,1,15,1,24,1
+tomato,"6"" x 6""",170,60,1,9,1
