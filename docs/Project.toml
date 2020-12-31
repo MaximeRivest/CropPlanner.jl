@@ -1,0 +1,3 @@
+[deps]
+CropPlanner = "3e2f6161-6079-4274-818b-f0f67714304f"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
