@@ -1,0 +1,342 @@
+location,location_nb,group_name,bed,round,vegetable,planting,date_in,date_out
+plot,1,early_cucurbitaceae_and_brassicaceae,1,1,broccoli,T,May 15,
+plot,1,early_cucurbitaceae_and_brassicaceae,2,1,broccoli,T,May 15,
+plot,1,early_cucurbitaceae_and_brassicaceae,3,1,broccoli,T,May 15,
+plot,1,early_cucurbitaceae_and_brassicaceae,4,1,bok_choy,T,May 9,
+plot,1,early_cucurbitaceae_and_brassicaceae,5,1,kohlrabi,T,May 9,
+plot,1,early_cucurbitaceae_and_brassicaceae,6,1,kale,T,May 9,
+plot,1,early_cucurbitaceae_and_brassicaceae,7,1,broccoli,T,May 20,
+plot,1,early_cucurbitaceae_and_brassicaceae,8,1,broccoli,T,May 20,
+plot,1,early_cucurbitaceae_and_brassicaceae,9,1,broccoli,T,May 20,
+plot,1,early_cucurbitaceae_and_brassicaceae,10,1,broccoli,T,May 20,
+plot,1,early_cucurbitaceae_and_brassicaceae,11,1,broccoli,T,May 20,
+plot,1,early_cucurbitaceae_and_brassicaceae,12,1,summer_squash,T,May 18,
+plot,1,early_cucurbitaceae_and_brassicaceae,13,1,summer_squash,T,May 18,
+plot,1,early_cucurbitaceae_and_brassicaceae,14,1,summer_squash,T,May 18,
+plot,1,early_cucurbitaceae_and_brassicaceae,15,1,cauliflower,T,June 1,
+plot,1,early_cucurbitaceae_and_brassicaceae,16,1,cauliflower,T,June 1,
+plot,1,early_cucurbitaceae_and_brassicaceae,1,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,2,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,3,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,4,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,5,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,6,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,7,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,8,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,9,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,10,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,11,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,12,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,13,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,14,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,15,2,oats_peas_manure,DS,August 1,October 31
+plot,1,early_cucurbitaceae_and_brassicaceae,16,2,oats_peas_manure,DS,August 1,October 31
+plot,2,greens_and_roots,1,1,mesclun_mix,DS,April 15,June 10
+plot,2,greens_and_roots,2,1,mesclun_mix,DS,April 15,June 10
+plot,2,greens_and_roots,3,1,snow_snap_peas,DS,April 19,July 15
+plot,2,greens_and_roots,4,1,snow_snap_peas,DS,April 19,July 15
+plot,2,greens_and_roots,5,1,snow_snap_peas,DS,April 19,July 15
+plot,2,greens_and_roots,6,1,snow_snap_peas,DS,April 19,July 15
+plot,2,greens_and_roots,7,1,carrot,DS,April 20,August 1
+plot,2,greens_and_roots,8,1,carrot,DS,April 20,August 1
+plot,2,greens_and_roots,9,1,beet,DS,April 20,August 1
+plot,2,greens_and_roots,10,1,turnip,DS,April 22,June 20
+plot,2,greens_and_roots,11,1,spinach,T,April 22,June 22
+plot,2,greens_and_roots,12,1,mesclun_mix,DS,April 22,June 20
+plot,2,greens_and_roots,13,1,mesclun_mix,DS,April 22,June 20
+plot,2,greens_and_roots,14,1,spinach,T,May 16,July 10
+plot,2,greens_and_roots,15,1,spinach,T,May 16,July 10
+plot,2,greens_and_roots,16,1,spinach,T,May 16,July 10
+plot,2,greens_and_roots,1,2,beet,DS,June 30,November 30
+plot,2,greens_and_roots,2,2,beet,DS,June 30,November 30
+plot,2,greens_and_roots,3,2,mesclun_mix,DS,July 27,September 10
+plot,2,greens_and_roots,4,2,mesclun_mix,DS,July 27,September 10
+plot,2,greens_and_roots,5,2,mesclun_mix,DS,July 27,September 10
+plot,2,greens_and_roots,6,2,mesclun_mix,DS,July 27,September 10
+plot,2,greens_and_roots,7,2,mesclun_mix,DS,August 10,September 25
+plot,2,greens_and_roots,8,2,mesclun_mix,DS,August 10,September 25
+plot,2,greens_and_roots,9,2,mesclun_mix,DS,August 10,September 25
+plot,2,greens_and_roots,10,2,mesclun_mix,DS,August 10,September 25
+plot,2,greens_and_roots,11,2,carrot,DS,June 23,November 30
+plot,2,greens_and_roots,12,2,carrot,DS,June 23,November 30
+plot,2,greens_and_roots,13,2,carrot,DS,June 23,November 30
+plot,2,greens_and_roots,14,2,mesclun_mix,DS,July 13,September 1
+plot,2,greens_and_roots,15,2,mesclun_mix,DS,July 13,September 1
+plot,2,greens_and_roots,16,2,mesclun_mix,DS,July 13,September 1
+plot,3,garlic,1,1,garlic,DS,October 1,July 1
+plot,3,garlic,2,1,garlic,DS,October 1,July 1
+plot,3,garlic,3,1,garlic,DS,October 1,July 1
+plot,3,garlic,4,1,garlic,DS,October 1,July 1
+plot,3,garlic,5,1,garlic,DS,October 1,July 1
+plot,3,garlic,6,1,garlic,DS,October 1,July 1
+plot,3,garlic,7,1,garlic,DS,October 1,July 1
+plot,3,garlic,8,1,garlic,DS,October 1,July 1
+plot,3,garlic,9,1,garlic,DS,October 1,July 1
+plot,3,garlic,10,1,garlic,DS,October 1,July 1
+plot,3,garlic,11,1,garlic,DS,October 1,July 1
+plot,3,garlic,12,1,garlic,DS,October 1,July 1
+plot,3,garlic,13,1,garlic,DS,October 1,July 1
+plot,3,garlic,14,1,garlic,DS,October 1,July 1
+plot,3,garlic,15,1,garlic,DS,October 1,July 1
+plot,3,garlic,16,1,garlic,DS,October 1,July 1
+plot,3,garlic,1,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,2,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,3,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,4,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,5,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,6,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,7,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,8,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,9,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,10,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,11,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,12,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,13,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,14,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,15,2,oats_peas_manure,DS,August 1,October 31
+plot,3,garlic,16,2,oats_peas_manure,DS,August 1,October 31
+plot,4,greens_and_roots,1,1,mesclun_mix,DS,June 29,August 15
+plot,4,greens_and_roots,2,1,mesclun_mix,DS,June 29,August 15
+plot,4,greens_and_roots,3,1,mesclun_mix,DS,July 1,August 17
+plot,4,greens_and_roots,4,1,mesclun_mix,DS,July 1,August 17
+plot,4,greens_and_roots,5,1,bean,DS,June 21,September 1
+plot,4,greens_and_roots,6,1,bean,DS,June 21,September 1
+plot,4,greens_and_roots,7,1,bean,DS,June 21,September 1
+plot,4,greens_and_roots,8,1,bean,DS,June 21,September 1
+plot,4,greens_and_roots,9,1,carrot,DS,June 8,October 1
+plot,4,greens_and_roots,10,1,carrot,DS,June 8,October 1
+plot,4,greens_and_roots,11,1,carrot,DS,June 8,October 1
+plot,4,greens_and_roots,12,1,carrot,DS,June 8,October 1
+plot,4,greens_and_roots,13,1,lettuce,T,June 15,July 15
+plot,4,greens_and_roots,14,1,lettuce,T,June 15,July 15
+plot,4,greens_and_roots,15,1,lettuce,T,June 28,August 15
+plot,4,greens_and_roots,16,1,lettuce,T,June 28,August 15
+plot,4,greens_and_roots,1,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,2,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,3,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,4,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,5,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,6,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,7,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,8,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,9,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,10,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,11,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,12,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,13,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,14,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,15,2,garlic,DS,October 15,July 1
+plot,4,greens_and_roots,16,2,garlic,DS,October 15,July 1
+plot,5,solanaceae,1,1,eggplant,T,May 30,November 30
+plot,5,solanaceae,2,1,eggplant,T,May 30,November 30
+plot,5,solanaceae,3,1,eggplant,T,May 30,November 30
+plot,5,solanaceae,4,1,eggplant,T,May 30,November 30
+plot,5,solanaceae,5,1,eggplant,T,May 30,November 30
+plot,5,solanaceae,6,1,ground_cherry,T,May 30,November 30
+plot,5,solanaceae,7,1,ground_cherry,T,May 30,November 30
+plot,5,solanaceae,8,1,hot_pepper,T,May 30,November 30
+plot,5,solanaceae,9,1,pepper,T,May 30,November 30
+plot,5,solanaceae,10,1,pepper,T,May 31,November 30
+plot,5,solanaceae,11,1,melon,T,June 6,November 30
+plot,5,solanaceae,12,1,melon,T,June 6,November 30
+plot,5,solanaceae,13,1,melon,T,June 6,November 30
+plot,5,solanaceae,14,1,melon,T,June 6,November 30
+plot,5,solanaceae,15,1,melon,T,June 6,November 30
+plot,5,solanaceae,16,1,melon,T,June 6,November 30
+plot,6,greens_and_roots,1,1,bean,DS,May 23,August 10
+plot,6,greens_and_roots,2,1,bean,DS,May 23,August 10
+plot,6,greens_and_roots,3,1,radish,DS,May 23,July 1
+plot,6,greens_and_roots,4,1,turnip,DS,May 23,July 10
+plot,6,greens_and_roots,5,1,carrot,DS,May 25,August 20
+plot,6,greens_and_roots,6,1,carrot,DS,May 25,August 20
+plot,6,greens_and_roots,7,1,arugula,DS,May 20,July 5
+plot,6,greens_and_roots,8,1,arugula,DS,May 20,July 5
+plot,6,greens_and_roots,9,1,lettuce,T,May 31,July 1
+plot,6,greens_and_roots,10,1,lettuce,T,May 31,July 1
+plot,6,greens_and_roots,11,1,beet,DS,June 6,August 25
+plot,6,greens_and_roots,12,1,beet,DS,June 6,August 25
+plot,6,greens_and_roots,13,1,bean,DS,June 6,August 20
+plot,6,greens_and_roots,14,1,bean,DS,June 6,August 20
+plot,6,greens_and_roots,15,1,bean,DS,June 6,August 20
+plot,6,greens_and_roots,16,1,bean,DS,June 6,August 20
+plot,6,greens_and_roots,1,2,spinach,T,August 15,October 31
+plot,6,greens_and_roots,2,2,spinach,T,August 15,October 31
+plot,6,greens_and_roots,3,2,lettuce,T,July 12,August 12
+plot,6,greens_and_roots,4,2,lettuce,T,July 12,August 12
+plot,6,greens_and_roots,5,2,arugula,DS,August 25,October 31
+plot,6,greens_and_roots,6,2,mustard_greens,DS,August 25,October 31
+plot,6,greens_and_roots,7,2,swiss_chard,T,July 10,October 31
+plot,6,greens_and_roots,8,2,swiss_chard,T,July 10,October 31
+plot,6,greens_and_roots,9,2,bean,DS,July 20,September 15
+plot,6,greens_and_roots,10,2,bean,DS,July 20,September 15
+plot,6,greens_and_roots,11,2,arugula,DS,September 1,November 30
+plot,6,greens_and_roots,12,2,arugula,DS,September 1,November 30
+plot,6,greens_and_roots,13,2,spinach,T,August 25,November 30
+plot,6,greens_and_roots,14,2,spinach,T,August 25,November 30
+plot,6,greens_and_roots,15,2,spinach,T,August 25,November 30
+plot,6,greens_and_roots,16,2,spinach,T,August 25,November 30
+plot,7,summer_cucurbitaceae_and_brassicaceae,1,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,2,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,3,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,4,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,5,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,6,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,7,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,8,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,9,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,10,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,11,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,12,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,13,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,14,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,15,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,16,1,vetch_oat_manure,DS,April 15,June 1
+plot,7,summer_cucurbitaceae_and_brassicaceae,1,2,broccoli,T,June 25,
+plot,7,summer_cucurbitaceae_and_brassicaceae,2,2,broccoli,T,June 25,
+plot,7,summer_cucurbitaceae_and_brassicaceae,3,2,broccoli,T,June 25,
+plot,7,summer_cucurbitaceae_and_brassicaceae,4,2,broccoli,T,June 25,
+plot,7,summer_cucurbitaceae_and_brassicaceae,5,2,cabbage,T,June 25,
+plot,7,summer_cucurbitaceae_and_brassicaceae,6,2,cabbage,T,June 25,
+plot,7,summer_cucurbitaceae_and_brassicaceae,7,2,brussels_sprout,T,June 25,
+plot,7,summer_cucurbitaceae_and_brassicaceae,8,2,summer_squash,T,July 5,
+plot,7,summer_cucurbitaceae_and_brassicaceae,9,2,cauliflower,T,July 14,
+plot,7,summer_cucurbitaceae_and_brassicaceae,10,2,cauliflower,T,July 14,
+plot,7,summer_cucurbitaceae_and_brassicaceae,11,2,broccoli,T,July 14,
+plot,7,summer_cucurbitaceae_and_brassicaceae,12,2,broccoli,T,July 14,
+plot,7,summer_cucurbitaceae_and_brassicaceae,13,2,broccoli,T,July 14,
+plot,7,summer_cucurbitaceae_and_brassicaceae,14,2,broccoli,T,July 14,
+plot,7,summer_cucurbitaceae_and_brassicaceae,15,2,kohlrabi,T,July 27,
+plot,7,summer_cucurbitaceae_and_brassicaceae,16,2,kohlrabi,T,July 27,
+plot,8,greens_and_roots,1,1,carrot,DS,April 10,July 25
+plot,8,greens_and_roots,2,1,carrot,DS,April 10,July 25
+plot,8,greens_and_roots,3,1,carrot,DS,May 4,August 4
+plot,8,greens_and_roots,4,1,carrot,DS,May 4,August 4
+plot,8,greens_and_roots,5,1,cilantro_dill,DS,May 15,August 4
+plot,8,greens_and_roots,6,1,turnip,DS,May 6,July 1
+plot,8,greens_and_roots,7,1,radish,DS,May 10,July 1
+plot,8,greens_and_roots,8,1,arugula,DS,May 10,July 1
+plot,8,greens_and_roots,9,1,beet,DS,May 10,August 10
+plot,8,greens_and_roots,10,1,beet,T,May 16,August 10
+plot,8,greens_and_roots,11,1,chicory,T,May 11,August 10
+plot,8,greens_and_roots,12,1,snow_snap_peas,DS,May 13,August 10
+plot,8,greens_and_roots,13,1,snow_snap_peas,DS,May 13,August 10
+plot,8,greens_and_roots,14,1,snow_snap_peas,DS,May 13,August 10
+plot,8,greens_and_roots,15,1,snow_snap_peas,DS,May 13,August 10
+plot,8,greens_and_roots,16,1,lettuce,T,May 16,June 25
+plot,8,greens_and_roots,1,2,lettuce,T,July 27,August 27
+plot,8,greens_and_roots,2,2,lettuce,T,July 27,August 27
+plot,8,greens_and_roots,3,2,lettuce,T,August 12,September 12
+plot,8,greens_and_roots,4,2,lettuce,T,August 12,September 12
+plot,8,greens_and_roots,5,2,mesclun_mix,DS,August 24,October 31
+plot,8,greens_and_roots,6,2,mesclun_mix,DS,August 24,October 31
+plot,8,greens_and_roots,7,2,mesclun_mix,DS,August 24,October 31
+plot,8,greens_and_roots,8,2,mesclun_mix,DS,August 24,October 31
+plot,8,greens_and_roots,9,2,mesclun_mix,DS,September 7,November 30
+plot,8,greens_and_roots,10,2,mesclun_mix,DS,September 7,November 30
+plot,8,greens_and_roots,11,2,mesclun_mix,DS,September 7,November 30
+plot,8,greens_and_roots,12,2,mesclun_mix,DS,September 7,November 30
+plot,8,greens_and_roots,13,2,mesclun_mix,DS,September 8,November 30
+plot,8,greens_and_roots,14,2,chinese_cabbage,T,August 15,November 30
+plot,8,greens_and_roots,15,2,collard_greens,T,August 15,November 30
+plot,8,greens_and_roots,16,2,fennel,T,July 28,November 30
+plot,9,liliaceae,1,1,green_onion,T,May 1,
+plot,9,liliaceae,2,1,green_onion,T,May 1,
+plot,9,liliaceae,3,1,green_onion,T,May 1,
+plot,9,liliaceae,4,1,green_onion,T,May 1,
+plot,9,liliaceae,5,1,green_onion,T,May 1,
+plot,9,liliaceae,6,1,green_onion,T,May 1,
+plot,9,liliaceae,7,1,leek,T,May 5,
+plot,9,liliaceae,8,1,leek,T,May 5,
+plot,9,liliaceae,9,1,leek,T,May 5,
+plot,9,liliaceae,10,1,leek,T,May 5,
+plot,9,liliaceae,11,1,storage_onion,T,May 8,
+plot,9,liliaceae,12,1,storage_onion,T,May 8,
+plot,9,liliaceae,13,1,storage_onion,T,May 8,
+plot,9,liliaceae,14,1,storage_onion,T,May 8,
+plot,9,liliaceae,15,1,storage_onion,T,May 8,
+plot,9,liliaceae,16,1,storage_onion,T,May 8,
+plot,9,liliaceae,1,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,2,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,3,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,4,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,5,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,6,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,7,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,8,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,9,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,10,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,11,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,12,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,13,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,14,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,15,2,oats_peas_manure,DS,September 1,April 1
+plot,9,liliaceae,16,2,oats_peas_manure,DS,September 1,April 1
+plot,10,greens_and_roots,1,1,mesclun_mix,DS,May 4,June 20
+plot,10,greens_and_roots,2,1,mesclun_mix,DS,May 4,June 20
+plot,10,greens_and_roots,3,1,mesclun_mix,DS,May 4,June 20
+plot,10,greens_and_roots,4,1,mesclun_mix,DS,May 4,June 20
+plot,10,greens_and_roots,5,1,mesclun_mix,DS,May 18,July 5
+plot,10,greens_and_roots,6,1,mesclun_mix,DS,May 18,July 5
+plot,10,greens_and_roots,7,1,mesclun_mix,DS,May 18,July 5
+plot,10,greens_and_roots,8,1,mesclun_mix,DS,May 18,July 5
+plot,10,greens_and_roots,9,1,mesclun_mix,DS,June 1,July 15
+plot,10,greens_and_roots,10,1,mesclun_mix,DS,June 1,July 15
+plot,10,greens_and_roots,11,1,mesclun_mix,DS,June 1,July 15
+plot,10,greens_and_roots,12,1,mesclun_mix,DS,June 1,July 15
+plot,10,greens_and_roots,13,1,mesclun_mix,DS,June 15,August 1
+plot,10,greens_and_roots,14,1,mesclun_mix,DS,June 15,August 1
+plot,10,greens_and_roots,15,1,mesclun_mix,DS,June 15,August 1
+plot,10,greens_and_roots,16,1,mesclun_mix,DS,June 15,August 1
+plot,10,greens_and_roots,1,2,carrot,DS,July 5,November 30
+plot,10,greens_and_roots,2,2,carrot,DS,July 5,November 30
+plot,10,greens_and_roots,3,2,bean,DS,July 4,November 30
+plot,10,greens_and_roots,4,2,bean,DS,July 4,November 30
+plot,10,greens_and_roots,5,2,winter_radish,DS,July 11,November 30
+plot,10,greens_and_roots,6,2,winter_radish,DS,July 11,November 30
+plot,10,greens_and_roots,7,2,winter_radish,DS,July 11,November 30
+plot,10,greens_and_roots,8,2,chicory,T,July 11,November 30
+plot,10,greens_and_roots,9,2,kale,T,August 5,November 30
+plot,10,greens_and_roots,10,2,kale,T,August 5,November 30
+plot,10,greens_and_roots,11,2,chinese_cabbage,T,August 8,November 30
+plot,10,greens_and_roots,12,2,chinese_cabbage,T,August 8,November 30
+plot,10,greens_and_roots,13,2,parsley,T,August 5,November 30
+plot,10,greens_and_roots,14,2,turnip,DS,August 5,October 31
+plot,10,greens_and_roots,15,2,radish,DS,August 20,October 31
+plot,10,greens_and_roots,16,2,turnip,DS,August 25,November 30
+tunnel,1,N/A,1,1,mesclun_mix,DS,March 5,April 10
+tunnel,1,N/A,2,1,mesclun_mix,DS,March 5,April 10
+tunnel,1,N/A,3,1,mesclun_mix,DS,March 5,April 10
+tunnel,1,N/A,4,1,mesclun_mix,DS,March 10,April 20
+tunnel,1,N/A,5,1,mesclun_mix,DS,March 10,April 20
+tunnel,1,N/A,6,1,beet,T,April 20,July 1
+tunnel,1,N/A,7,1,carrot,DS,April 20,July 1
+tunnel,1,N/A,8,1,summer_squash,T,April 24,July 15
+tunnel,1,N/A,9,1,cucumber,T,April 25,
+tunnel,1,N/A,10,1,cucumber,T,April 25,
+tunnel,1,N/A,11,1,cucumber,T,July 25,
+tunnel,1,N/A,12,1,cucumber,T,July 25,
+tunnel,1,N/A,13,1,mesclun_mix,DS,September 25,
+tunnel,1,N/A,14,1,mesclun_mix,DS,September 25,
+tunnel,1,N/A,15,1,mesclun_mix,DS,September 25,
+tunnel,2,N/A,1,1,mesclun_mix,DS,March 20,April 27
+tunnel,2,N/A,2,1,mesclun_mix,DS,March 20,April 27
+tunnel,2,N/A,3,1,mesclun_mix,DS,March 20,April 27
+tunnel,2,N/A,4,1,mesclun_mix,DS,March 28,May 5
+tunnel,2,N/A,5,1,mesclun_mix,DS,March 28,May 5
+tunnel,2,N/A,6,1,pepper,T,May 1,
+tunnel,2,N/A,7,1,pepper,T,May 1,
+tunnel,2,N/A,8,1,pepper,T,May 1,
+tunnel,2,N/A,9,1,cucumber,T,June 15,
+tunnel,2,N/A,10,1,cucumber,T,June 15,
+tunnel,2,N/A,11,1,mesclun_mix,DS,October 5,
+tunnel,2,N/A,12,1,mesclun_mix,DS,October 5,
+tunnel,2,N/A,13,1,mesclun_mix,DS,October 5,
+tunnel,2,N/A,14,1,mesclun_mix,DS,October 10,
+tunnel,2,N/A,15,1,mesclun_mix,DS,October 10,
+greenhouse,1,N/A,1,1,tomato,T,April 16,
+greenhouse,1,N/A,2,1,tomato,T,April 16,
+greenhouse,1,N/A,3,1,tomato,T,April 16,
+greenhouse,1,N/A,4,1,tomato,T,May 20,
+greenhouse,1,N/A,5,1,tomato,T,May 20,
+greenhouse,1,N/A,6,1,tomato,T,May 20,
+greenhouse,1,N/A,7,1,basil,T,May 20,
