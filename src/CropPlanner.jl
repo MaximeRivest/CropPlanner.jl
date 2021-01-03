@@ -10,10 +10,16 @@ using Dates
 using Unitful, Unitful.DefaultSymbols
 using UnitfulUS
 
-
-include("convertstringarray.jl")
-include("tosiunits.jl")
+include("addearliestharvest!.jl")
 include("addseedingdateoftransplant!.jl")
+include("convertstringarray.jl")
+include("converttodate.jl")
+include("converttodays.jl")
+include("getbasketprice.jl")
+include("listavailablecropondate.jl")
+include("tosiunits.jl")
+
+export listavailablecropondate
 
 vegdic = JSON.parse(String(read("data/vegetable_name_dictionary.json")))
 
