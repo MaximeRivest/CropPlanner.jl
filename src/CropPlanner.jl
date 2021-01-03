@@ -1,4 +1,4 @@
- CropPlanner
+module CropPlanner
 
 import HTTP
 import JSON
