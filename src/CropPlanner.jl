@@ -23,20 +23,42 @@ export listavailablecropondate
 
 vegdic = JSON.parse(String(read("data/vegetable_name_dictionary.json")))
 
+# Create table of range of harvest_dates
+crop_calendar = CSV.read("data/crop plan - ecoumene_crop_calendar.csv", DataFrames.DataFrame)
+crop_calendar[!,:vegetable] = [get(vegdic, v, v) for v in  crop_calendar[!,:vegetable]]
+
+rename!(crop_calendar, [ i => crop_calendar[1,i] for i in 3:ncol(crop_calendar)])
+crop_calendar1 = crop_calendar[3:end,:]
+
+possible_harvest_weeks = @pipe crop_calendar1 |>
+    @where(_, :activity .== "harvest") |>
+    stack(_, 3:ncol(_)) |>
+    dropmissing |>
+    @transform(_, week = [i.value for i in Week.(Date.(:variable, DateFormat("m/d/y")))]) |>
+    @select(_, :vegetable, :activity, :week, date = :variable)
+
+CSV.write("data/possible_harvest_weeks.csv", possible_harvest_weeks)
+
+# Load tables 
 crop_notes = CSV.read("data/crop plan - jm_crop_notes.csv", DataFrames.DataFrame)
 crop_notes[!,:vegetable] = [get(vegdic, v, v) for v in  crop_notes[!,:vegetable] ]
+CSV.write("data/crop plan - jm_crop_notes.csv",crop_notes)
 
 garden_plan = CSV.read("data/crop plan - jm_garden_plan.csv", DataFrames.DataFrame)
 garden_plan[!,:vegetable] = [get(vegdic, v, v) for v in  garden_plan[!,:vegetable] ]
+CSV.write("data/crop plan - jm_garden_plan.csv",garden_plan)
 
 transplant_table = CSV.read("data/crop plan - jm_transplant_table.csv", DataFrames.DataFrame)
 transplant_table[!,:vegetable] = [get(vegdic, v, v) for v in  transplant_table[!,:vegetable] ]
+CSV.write("data/crop plan - jm_transplant_table.csv",transplant_table)
 
 yields_and_sales = CSV.read("data/crop plan - jm_yields_and_sales.csv", DataFrames.DataFrame)
 yields_and_sales[!,:vegetable] = [get(vegdic, v, v) for v in  yields_and_sales[!,:vegetable] ]
+CSV.write("data/crop plan - jm_yields_and_sales.csv",yields_and_sales)
 
-crop_calendar = CSV.read("data/crop plan - ecoumene_crop_calendar.csv", DataFrames.DataFrame)
-crop_calendar[!,:vegetable] = [get(vegdic, v, v) for v in  crop_calendar[!,:vegetable]]
+possible_harvest_weeks = CSV.read("data/possible_harvest_weeks.csv", DataFrame)
+
+all_vegdf = DataFrame(vegetable = unique(outerjoin(crop_notes, garden_plan, transplant_table, yields_and_sales, possible_harvest_weeks, on = :vegetable,makeunique = true)[:,:vegetable]))
 
 crop_df = outerjoin(crop_notes, garden_plan, transplant_table, yields_and_sales, on = :vegetable,makeunique = true)
 
@@ -53,24 +75,26 @@ crop_df_cln = @transform(crop_df,
     date_out = converttodate.(:date_out)
     )
 
+crop_df_cln[ismissing.(crop_df_cln[!,:period_of_harvest_days]), :period_of_harvest_days] .= Day(0)
+
 addseedingdateoftransplant!(crop_df_cln)
 addearliestharvest!(crop_df_cln)
 
 show(names(crop_df_cln))
 sort!(crop_df_cln, :earliest_harvest)
 
-aragula = @where(crop_df, :vegetable .== "arugula")
-broccoli = @where(crop_df, :vegetable .== "broccoli")
-tomato = @where(crop_df, :vegetable .== "tomato")
-carrot = @where(crop_df, :vegetable .== "carrot")
+# Create possible_harvest_weeks for JM info
+jm_harvest_range = @pipe crop_df_cln |>
+    groupby(_, :vegetable) |>
+    @combine(_,  
+        min_harvest = minimum(:earliest_harvest),
+        max_harvest = maximum(:date_out)
+    )
+
+CSV.write("tmp.csv", jm_harvest_range)
 
 
-CSV.write("tmp.csv", crop_df_cln)
 
-Dates.Day(Dates.DateTime("August 1", Dates.DateFormat("U d")) - Dates.DateTime("April 20", Dates.DateFormat("U d")))
-Dates.Day(Dates.DateTime("2021 July 1", Dates.DateFormat("y U d")) - Dates.DateTime("2020 October 1", Dates.DateFormat("y U d")))
-
-Dates.LOCALES["english"].month_value["may"]
 
 
 end
