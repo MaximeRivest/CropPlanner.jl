@@ -1,4 +1,4 @@
- CropPlanner
+module CropPlanner
 
 import HTTP
 import JSON
@@ -68,3 +68,4 @@ Dates.LOCALES["english"].month_value["may"]
 
 
 end
+
