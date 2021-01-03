@@ -1,35 +1,66 @@
-vegetable,jm_price_dollar_per_unit,jm_nb_beds,jm_revenue_per_bed,sold_yield_per_bed_unit_per_bed,unit,jm_sold_yield_converted,our_yield_kg_or_unit,conversion_unit,desired_selling_price,unit_of_selling_price,predicted_revenu_per_jm_bed,predicted_revenu_per_our_bed,nb_beds_for_us,total_predicted_revenu
-tomato,2.75,4,8800,3200,lb,1451.247166,580.4988662,kilogram,6,kg,8707.482993,6965.986395,4,27863.94558
-pepper,4,8,550,137.5,lb,62.35827664,24.94331066,kilogram,11,kg,685.9410431,548.7528345,8,4390.022676
-cucumber,2,6,1380,690,unit,690,276,,2,unit,1380,1104,6,6624
-mesclun,6,35,450,75,lb,34.01360544,13.60544218,kilogram,15,kg,510.2040816,408.1632653,20,8163.265306
-lettuce,2,18,500,250,unit,250,100,unit,2,unit,500,400,18,7200
-garlic,1.5,8,825,550,clove,550,220,unit,1.5,unit,825,660,8,5280
-carrot,2.5,14,465,186,bunch,930,372,unit,0.5,unit,465,372,14,5208
-onion,1.5,9,675,450,lb,204.0816327,81.63265306,kilogram,2,kg,408.1632653,326.5306122,8,2612.244898
-green_onion,2,4,840.00,420,bunch,2100,840,unit,0.4,unit,840,672,4,2688
-basil,20,2,700,35,lb,15.87301587,6.349206349,kilogram,20,kg,317.4603175,253.968254,2,507.9365079
-celery,1,,,380,unit,380,152,unit,2,unit,760,608,2,1216
-potato,1,,,0,,0,0,,,,0,0,,0
-sweetcorn,1,,,0,,0,0,,,,0,0,,0
-radish,1.5,5,450,300,bunch,1500,600,unit,0.3,unit,450,360,4,1440
-cherry_tomato,5,2,965,193,lb,87.52834467,35.01133787,kilogram,11,kg,962.8117914,770.2494331,2,1540.498866
-summer_squash,1.5,6,615,410,lb,185.9410431,74.37641723,kilogram,4,kg,743.7641723,595.0113379,6,3570.068027
-spinach,6,5,600,100,lb,45.35147392,18.14058957,kilogram,15,kg,680.2721088,544.2176871,6,3265.306122
-pumpkin,1,,,0,,0,0,,0,,0,0,0,0
-broccoli,2.5,13,300,120,unit,220,88,unit,2.5,unit,550,440,12,5280
-snow_pea,6,8,480,80,lb,36.28117914,14.51247166,kilogram,12,kg,435.3741497,348.2993197,8,2786.394558
-eggplant,3,3,450,150,lb,68.02721088,27.21088435,kilogram,8,kg,544.2176871,435.3741497,2,870.7482993
-aragula,2,2,400,200,unit,200,80,kilogram,2,kg,400,320,2,640
-beet,2.5,7,415,166,unit,830,332,unit,0.5,unit,415,332,6,1992
-kale,2,2,800,400,unit,2000,800,unit,0.4,unit,800,640,2,1280
-cauliflower,3,4,400,133.3333333,unit,133,53.2,unit,3,unit,399,319.2,4,1276.8
-leek,4,3,400,100,unit,100,40,unit,4,unit,400,320,2,640
-coriandre,1,,,0,,0,0,,0,,0,0,0,0
-thyme,1,,,0,,0,0,,0,,0,0,0,0
-rosemary,1,,,0,,0,0,,0,,0,0,0,0
-microgreens,1,,,0,,0,0,,0,,0,0,0,0
-raspberries,1,,,0,,0,0,,0,,0,0,0,0
-strawberries,1,,,0,,0,0,,0,,0,0,0,0
-asperagus,1,,,0,,0,0,,0,,0,0,0,0
-Sweet potato,,,,,,,0,,,,,,,
+vegetable,jm_price_dollar_per_unit,jm_nb_beds,jm_revenue_per_bed,sold_yield_per_bed_unit_per_bed,unit,jm_sold_yield_converted,our_yield_kg_or_unit,conversion_unit,desired_selling_price,unit_of_selling_price,recommended_quantity,roughly_equivalent_to,price_of_recommended_quantity,predicted_revenu_per_jm_bed,predicted_revenu_per_our_bed,nb_beds_for_us,total_predicted_revenu
+tomato,2.75,4,8800.0,3200.0,lb,1451.247166,580.4988662,kilogram,6.0,kg,0.75,5-6 medium sized,4.5,8707.482993,3482.993197,4,13931.97279
+turnip_leaf,2.5,4,525.0,210.0,unit,210.0,84.0,unit,10.0,kg,0.2,1 small tray,2.0,2100.0,840.0,,
+cucumber,2.0,6,1380.0,690.0,unit,690.0,276.0,,2.0,unit,1.0,1 English cucumber,2.0,1380.0,552.0,6,3312.0
+cherry_tomato,5.0,2,965.0,193.0,lb,87.52834467,35.01133787,kilogram,11.0,kg,0.3,1 medium tray,3.3,962.8117914,385.1247166,2,770.2494331
+green_onion,2.0,4,840.0,420.0,bunch,2100.0,840.0,unit,0.4,unit,5.0,1 handful,2.0,840.0,336.0,4,1344.0
+garlic,1.5,8,825.0,550.0,clove,550.0,220.0,unit,1.5,unit,1.0,1 bulb,1.5,825.0,330.0,8,2640.0
+onion,1.5,9,675.0,450.0,lb,204.0816327,81.63265306,kilogram,4.0,kg,0.75,3 medium sized,3.0,816.3265306,326.5306122,8,2612.244898
+kale,2.0,2,800.0,400.0,bunch,2000.0,800.0,unit,0.4,unit,5.0,1 handful,2.0,800.0,320.0,2,640.0
+basil,20.0,2,700.0,35.0,lb,15.87301587,6.349206349,kilogram,50.0,kg,0.1,1 handful,5.0,793.6507937,317.4603175,2,634.9206349
+celery,1.0,,,380.0,unit,380.0,152.0,unit,2.0,unit,1.0,1 celery,2.0,760.0,304.0,2,608.0
+summer_squash,1.5,6,615.0,410.0,lb,185.9410431,74.37641723,kilogram,4.0,kg,1.0,4-5 medium sized,4.0,743.7641723,297.5056689,6,1785.034014
+tatsoi,,,,,,,14.0,,20.0,kg,0.3,1 small tray,6.0,0.0,280.0,,
+pepper,4.0,8,550.0,137.5,lb,62.35827664,24.94331066,kilogram,11.0,kg,0.5,3 peppers,5.5,685.9410431,274.3764172,8,2195.011338
+spinach,6.0,5,600.0,100.0,lb,45.35147392,18.14058957,kilogram,15.0,kg,0.2,a small bag,3.0,680.2721088,272.1088435,6,1632.653061
+turnip,2.5,4,525.0,210.0,bunch,1680.0,672.0,unit,0.35,unit,7.0,a bunch of 6-8 small sized,2.45,588.0,235.2,,
+broccoli,2.5,13,300.0,120.0,unit,220.0,88.0,unit,2.5,unit,1.0,1 broccoli,2.5,550.0,220.0,12,2640.0
+eggplant,3.0,3,450.0,150.0,lb,68.02721088,27.21088435,kilogram,8.0,kg,0.5,1 medium sized,4.0,544.2176871,217.6870748,2,435.3741497
+mesclun_mix,6.0,35,450.0,75.0,lb,34.01360544,13.60544218,kilogram,15.0,kg,0.3,1 medium tray,4.5,510.2040816,204.0816327,20,4081.632653
+lettuce,2.0,18,500.0,250.0,unit,250.0,100.0,unit,2.0,unit,1.0,1 lettuce head,2.0,500.0,200.0,18,3600.0
+watermelon,4.0,5,245.0,61.25,lb,27.77777778,13.0,unit,15.0,unit,1.0,1 large watermelon,15.0,416.6666667,195.0,2,390.0
+bok_choy,,,,,,,288.0,unit,0.65,unit,6.0,6 baby bok choy,3.9,0.0,187.2,,
+chinese_cabbage,,,,,,,288.0,unit,0.65,unit,1.0,1 chinese cabbage,0.65,0.0,187.2,,
+cauliflower,3.0,4,400.0,133.3333333,unit,133.0,53.2,unit,3.5,unit,1.0,1 cauliflower,3.5,465.5,186.2,4,744.8
+carrot,2.5,14,465.0,186.0,bunch,930.0,372.0,unit,0.5,unit,5.0,5-8 medium/large carrots,2.5,465.0,186.0,14,2604.0
+arugula,2.0,2,400.0,200.0,bunch,3000.0,1200.0,unit,0.15,unit,15.0,1 bunch,2.25,450.0,180.0,2,360.0
+radish,1.5,5,450.0,300.0,bunch,1500.0,600.0,unit,0.3,unit,8.0,1 handful,2.4,450.0,180.0,4,720.0
+bean,3.75,8,410.0,109.3333333,lb,49.58427816,19.83371126,kilogram,9.0,kg,0.4,1 small tray,3.6,446.2585034,178.5034014,8,1428.027211
+snow_pea,6.0,8,480.0,80.0,lb,36.28117914,14.51247166,kilogram,12.0,kg,0.2,1 medium tray,2.4,435.3741497,174.1496599,8,1393.197279
+beet,2.5,7,415.0,166.0,unit,830.0,332.0,unit,0.5,unit,6.0,6 small-medium sized,3.0,415.0,166.0,6,996.0
+leek,4.0,3,400.0,100.0,unit,100.0,40.0,unit,4.0,unit,1.0,1 leek stem,4.0,400.0,160.0,2,320.0
+cabbage,,,,,,,53.2,unit,2.5,unit,1.0,1 cabbage,2.5,0.0,133.0,,0.0
+corn,,,,,,,144.0,unit,0.75,unit,6.0,6 corns on the cob,4.5,0.0,108.0,,
+asparagus,1.0,,,0.0,,0.0,0.0,,0.0,,,,0.0,0.0,0.0,0,0.0
+brussel_sprout,,,,,,,,,,kg,0.45,20-25 buds,0.0,0.0,0.0,,0.0
+celeriac,,,,,,,,,4.0,kg,1.0,1 celeriac,4.0,0.0,0.0,,
+charentais,4.0,5,245.0,61.25,lb,27.77777778,,kilogram,5.0,unit,1.0,1 medium melon,5.0,138.8888889,0.0,,
+chicory,,,,,,,,,2.0,unit,1.0,1 chicory head,2.0,0.0,0.0,,
+dill,,,,,,,,,,,0.1,1 handful,0.0,0.0,0.0,,
+collard_greens,,,,,,,,,6.0,kg,0.22,1 medium tray,1.32,0.0,0.0,,
+coriander,1.0,,,0.0,,0.0,0.0,,0.0,,0.1,1 handful,0.0,0.0,0.0,0,0.0
+edamame,,,,,,,,,,,0.4,1 small tray,0.0,0.0,0.0,,
+fennel,,,,,,,,,3.0,unit,1.0,1 fennel,3.0,0.0,0.0,,
+garlic_scape,,,,,,,,,0.5,unit,5.0,1 handful,2.5,0.0,0.0,,
+ground_cherry,,,,,,,,,20.0,kg,0.2,1 small tray,4.0,0.0,0.0,,
+hot_pepper,,,,,,,,,15.0,kg,0.2,2-6 small-medium hot peppers,3.0,0.0,0.0,,
+kohlrabi,1.25,2,470.0,376.0,unit,376.0,,unit,2.0,unit,1.0,1 kohlrabi,2.0,752.0,0.0,,
+mache,,,,,,,,,,,,,0.0,0.0,0.0,,
+mesclun_mix_tunnel,6.0,35,450.0,75.0,lb,34.01360544,,,,,0.3,1 medium tray,0.0,0.0,0.0,,
+microgreens,1.0,,,0.0,,0.0,0.0,,0.0,,,,0.0,0.0,0.0,0,0.0
+muskmelon,4.0,5,245.0,61.25,lb,27.77777778,,kilogram,4.0,unit,1.0,1 medium melon,4.0,111.1111111,0.0,,
+mustard_greens,,,,,,,,,10.0,kg,0.2,1 small tray,2.0,0.0,0.0,,
+oats_peas_manure,,,,,,,,,,,,,0.0,0.0,0.0,,
+parsley,,,,,,,,,,,0.1,1 handful,0.0,0.0,0.0,,
+parsnip,,,,,,,,,7.0,kg,0.2,3-5 medium sized,1.4,0.0,0.0,,
+potato,1.0,,,0.0,,0.0,0.0,,,,,,0.0,0.0,0.0,,0.0
+pumpkin,1.0,,,0.0,,0.0,0.0,,0.0,,1.0,1 medium sized,0.0,0.0,0.0,0,0.0
+raspberries,1.0,,,0.0,,0.0,0.0,,0.0,,,,0.0,0.0,0.0,0,0.0
+rosemary,1.0,,,0.0,,0.0,0.0,,0.0,,0.1,1 handful,0.0,0.0,0.0,0,0.0
+strawberries,1.0,,,0.0,,0.0,0.0,,0.0,,,,0.0,0.0,0.0,0,0.0
+Sweet potato,,,,,,,,,3.5,kg,2.0,3-5 small-medium sized,7.0,0.0,0.0,,
+swiss_chard,2.0,2,800.0,400.0,unit,400.0,,unit,0.4,unit,5.0,1 handful,2.0,160.0,0.0,,
+thyme,1.0,,,0.0,,0.0,0.0,,0.0,,0.1,1 bunch,0.0,0.0,0.0,0,0.0
+vetch_oat_manure,,,,,,,,,,,,,0.0,0.0,0.0,0,0.0
+winter_squash,,,,,,,,,5.0,kg,1.0,1 medium sized,,0.0,0.0,0,0.0
+artichoke,,,,,,,,,,,3.0,3 artichoke globes,0.0,,,,

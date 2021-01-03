@@ -10,5 +10,10 @@
     "summer_cabbage":"cabbage",
     "sweet_corn":"corn",
     "winter_radish":"radish",
-    "brocoli":"broccoli"
+    "brocoli":"broccoli",
+    "celeri":"celery",
+    "rutabaga":"turnip",
+    "brussel_sprouts":"brussel_sprout",
+    "brussels_sprout":"brussel_sprout",
+    "brussels_sprouts":"brussel_sprout"
 }
