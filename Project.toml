@@ -15,6 +15,7 @@ Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 UnitfulUS = "7dc9378f-8956-57ef-a780-aa31cc70ff3d"
 
 [compat]
+Unitful = "1.5"
 julia = "1"
 
 [extras]
